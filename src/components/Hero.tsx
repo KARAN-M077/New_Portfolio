@@ -172,7 +172,7 @@ export const Hero = () => {
                   Crafting digital experiences with modern technologies
                 </p>
 
-                <div className="md:grid md:grid-cols-4 lg:grid lg:grid-cols-4  grid grid-cols-2 gap-3 lg:gap-6 md:gap-6 ">
+                <div className="md:grid md:grid-cols-4 lg:grid lg:grid-cols-4  grid grid-cols-2 gap-3 gap-6 md:gap-6 ">
                   {techStack.map((tech, index) => (
                     <motion.div
                       key={tech.name}
