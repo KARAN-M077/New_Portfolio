@@ -5,6 +5,7 @@ import { Hero } from './components/Hero';
 import { Skills } from './components/Skills';
 import { Projects } from './components/Projects';
 import { Contact } from './components/Contact';
+import { TechGrid } from './components/TechGrid';
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -26,6 +27,7 @@ function App() {
       <Navbar />
       <main>
         <Hero />
+        <TechGrid/>
         <Skills />
         <Projects />
         <Contact />
