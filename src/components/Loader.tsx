@@ -41,7 +41,7 @@ const ProfessionalText = ({ text }: { text: string }) => {
 
   return (
     <motion.div
-      className="relative z-20 font-[Poppins] text-slate-100"
+      className="relative z-20 font-[Poppins] text-white"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 1 }}
@@ -88,7 +88,7 @@ const RadialGlow = () => (
 
 export const Loader = () => {
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950">
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black">
       <RadialGlow />
 
       {/* Enhanced Circular Waves */}
