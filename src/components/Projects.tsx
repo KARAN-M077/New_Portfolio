@@ -42,7 +42,7 @@ const projects = [
       "For a freelance project, a client approached us through LinkedIn and provided the UI design for a company landing page. Our task was to develop the UI and implement a feedback form using Nodemailer. My contributions included developing half of the UI and creating the feedback form with Nodemailer. The project resulted in a polished landing page that effectively met the client's needs and facilitated user feedback.",
     image: jassmediaimg,
     technologies: "React",
-    link: "https://github.com/KARAN-M077/jassmedia_freelance",
+    githubLink: "https://github.com/KARAN-M077/jassmedia_freelance",
   },
   {
     title: "Diseases Identifier APP UI",
@@ -50,7 +50,7 @@ const projects = [
       "Plant disease identifier app with Flutter and Dart, allowing users to upload samples and receive accurate results. Leveraging Flutter's UI and Dart's functionality, I ensured a seamless user experience.",
     image: appimg,
     technologies: "Flutter",
-    link: "https://github.com/KARAN-M077/Plant_diseases_identifier_APP_UI",
+    githubLink: "https://github.com/KARAN-M077/Plant_diseases_identifier_APP_UI",
   },
   {
     title: "Stock Managemetn APP ",
@@ -58,7 +58,7 @@ const projects = [
       "For a consultancy project, our team of two developed a stock management app for a textile shop, enhancing inventory tracking and operational efficiency. My role focused on design and frontend development using Flutter and Dart, creating a user-friendly and responsive interface. Key features included real-time inventory tracking, search and filtering options and detailed reporting. The app significantly improved inventory accuracy and operational efficiency for the client.",
     image: stockimg,
     technologies: "Flutter",
-    link: "https://github.com/KARAN-M077/Stock_Management",
+    githubLink: "https://github.com/KARAN-M077/Stock_Management",
   },
   {
     title: "Timer",
@@ -66,7 +66,7 @@ const projects = [
       "JavaScript-based timer project, showcasing my adeptness in JavaScript programming. Through meticulous coding, I ensured the functionality and efficiency of the timer, demonstrating my commitment to delivering quality solutions. This project underscored my proficiency in JavaScript and my capability to develop practical applications.",
     image: timerimg,
     technologies: "HTML & JS",
-    link: "https://github.com/KARAN-M077/Mytimer",
+    githubLink: "https://github.com/KARAN-M077/Mytimer",
   },
   {
     title: "Smart Education",
@@ -74,7 +74,7 @@ const projects = [
       "My primary focus was on frontend development. I took the lead in designing and implementing critical components such as the admin page and all frontend forms, including login and sign-up functionalities.",
     image: smarteduimg,
     technologies: "MERN Stack",
-    link: "https://github.com/KARAN-M077/SIH_Project_UI",
+    githubLink: "https://github.com/KARAN-M077/SIH_Project_UI",
   },
   {
     title: "To-DO List (UI)",
@@ -82,7 +82,7 @@ const projects = [
       "In our group project, I led the development of key features including the settings page, login, and sign-up functionality. My responsibilities involved designing intuitive user interfaces and implementing secure authentication processes. These contributions played a crucial role in enhancing the overall usability and functionality of the application. Through collaborative efforts, we delivered a polished product to our users.",
     image: todoimg,
     technologies: "React",
-    link: "https://github.com/KARAN-M077/Google_Hackathon_TO-DOproject_UI",
+    githubLink: "https://github.com/KARAN-M077/Google_Hackathon_TO-DOproject_UI",
   },
 ];
 
