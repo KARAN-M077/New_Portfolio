@@ -6,10 +6,11 @@ import ecommerceimg from "../Assests/ecommerceimg.png";
 import jassmediaimg from "../Assests/jassmediaimg.png";
 import project1img from "../Assests/project1img.png";
 import smarteduimg from "../Assests/smarteduimg.png";
-import stockimg from "../Assests/timerimg.png";
+import stockimg from "../Assests/stockimg.png";
 import todoimg from "../Assests/todoimg.png";
 import vmsimg from "../Assests/vmsimg.png";
 import timerimg from "../Assests/timerimg.png";
+
 const projects = [
   {
     title: "E-Commerce Platform",
