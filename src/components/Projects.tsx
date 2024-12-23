@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import { ExternalLink, Github } from "lucide-react";
+import {  Github } from "lucide-react";
 import appimg from "../Assests/appimg.png";
 import ecommerceimg from "../Assests/ecommerceimg.png";
 import jassmediaimg from "../Assests/jassmediaimg.png";
@@ -10,6 +10,7 @@ import stockimg from "../Assests/stockimg.png";
 import todoimg from "../Assests/todoimg.png";
 import vmsimg from "../Assests/vmsimg.png";
 import timerimg from "../Assests/timerimg.png";
+import gymimg from "../Assests/gymimg.png"
 
 const projects = [
   {
@@ -35,6 +36,14 @@ const projects = [
     image: project1img,
     technologies: "HTML & NodeJS",
     githubLink: "https://github.com/KARAN-M077/Event_Management",
+  },
+  {
+    title: "Gym Influencer Website",
+    description:
+      "I created a modern and user-friendly UX for a gym website using React and Tailwind CSS, focusing on responsiveness and accessibility. The website highlights the gym’s services, such as personal training, group classes, and wellness programs, making it easy for users to explore and engage with the content.",
+    image: gymimg,
+    technologies: "React & TailWind CSS",
+    githubLink: "https://github.com/KARAN-M077/Gym_site",
   },
   {
     title: "Freelance Project",
