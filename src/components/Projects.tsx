@@ -62,7 +62,7 @@ const projects = [
     githubLink: "https://github.com/KARAN-M077/Plant_diseases_identifier_APP_UI",
   },
   {
-    title: "Stock Managemetn APP ",
+    title: "Stock Management APP ",
     description:
       "For a consultancy project, our team of two developed a stock management app for a textile shop, enhancing inventory tracking and operational efficiency. My role focused on design and frontend development using Flutter and Dart, creating a user-friendly and responsive interface. Key features included real-time inventory tracking, search and filtering options and detailed reporting. The app significantly improved inventory accuracy and operational efficiency for the client.",
     image: stockimg,
