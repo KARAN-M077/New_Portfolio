@@ -10,7 +10,8 @@ import stockimg from "../Assests/stockimg.png";
 import todoimg from "../Assests/todoimg.png";
 import vmsimg from "../Assests/vmsimg.png";
 import timerimg from "../Assests/timerimg.png";
-import gymimg from "../Assests/gymimg.png"
+import gymimg from "../Assests/gymimg.png";
+import postifyimg from "../Assests/postifyimg.png";
 
 const projects = [
   {
@@ -28,6 +29,14 @@ const projects = [
     image: vmsimg,
     technologies: "MERN Stack",
     githubLink: "https://github.com/KARAN-M077/KEC-VMS",
+  },
+  {
+    title: "Postify - Social Media App",
+    description:
+      "Developed a social media app using React, Node.js, and MongoDB, enabling users to create posts to share their ideas . I implemented the user authentication system, designed the UI for the feed , and created the API endpoints for post creation and interaction. This project showcased my ability to develop user-centric applications and deliver seamless user experiences.",
+    image: postifyimg,
+    technologies: "MERN Stack",
+    githubLink: "https://github.com/KARAN-M077/Postify",
   },
   {
     title: "Event Registration",
