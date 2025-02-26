@@ -14,7 +14,7 @@ export const Navbar = () => {
   };
 
   return (
-    <nav className="fixed top-0 z-40 w-full bg-white/80 backdrop-blur-md">
+    <nav className="sticky top-0 z-40 w-full bg-white/80 backdrop-blur-md">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <motion.div
