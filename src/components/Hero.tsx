@@ -81,7 +81,7 @@ export const Hero = () => {
           <div className=" flex justify-center mt-[-30px] mb-10">
               <button
                 onClick={handleDownload}
-                className="flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-full shadow-lg transform transition-all duration-300 hover:scale-105 active:scale-95"
+                className="flex items-center gap-2 bg-[#8F34EA] hover:bg-indigo-700 text-white px-6 py-3 rounded-full shadow-lg transform transition-all duration-300 hover:scale-105 active:scale-95"
               >
                 <Download className="w-5 h-5" />
                 <span className="font-medium">Download Resume</span>
