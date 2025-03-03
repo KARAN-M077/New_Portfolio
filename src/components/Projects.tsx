@@ -30,14 +30,14 @@ const projects = [
     technologies: "MERN Stack",
     githubLink: "https://github.com/KARAN-M077/KEC-VMS",
   },
-  {
-    title: "Postify - Social Media App",
-    description:
-      "Developed a social media app using React, Node.js, and MongoDB, enabling users to create posts to share their ideas . I implemented the user authentication system, designed the UI for the feed , and created the API endpoints for post creation and interaction. This project showcased my ability to develop user-centric applications and deliver seamless user experiences.",
-    image: postifyimg,
-    technologies: "MERN Stack",
-    githubLink: "https://github.com/KARAN-M077/Postify",
-  },
+  // {
+  //   title: "Postify - Social Media App",
+  //   description:
+  //     "Developed a social media app using React, Node.js, and MongoDB, enabling users to create posts to share their ideas . I implemented the user authentication system, designed the UI for the feed , and created the API endpoints for post creation and interaction. This project showcased my ability to develop user-centric applications and deliver seamless user experiences.",
+  //   image: postifyimg,
+  //   technologies: "MERN Stack",
+  //   githubLink: "https://github.com/KARAN-M077/Postify",
+  // },
   {
     title: "Event Registration",
     description:
