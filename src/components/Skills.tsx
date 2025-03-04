@@ -9,7 +9,6 @@ const skills = [
   { name: 'Frontend Development', Icon: Layout },
   { name: 'Backend Development', Icon: Server },
   { name: 'Database Management', Icon: Database },
-  { name: 'UI/UX Design', Icon: Palette },
   { name: 'API Development', Icon: Globe },
   { name: 'Version Control', Icon: GitBranch },
   { name: 'Clean Code', Icon: Code2 },

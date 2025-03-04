@@ -11,7 +11,7 @@ import todoimg from "../Assests/todoimg.png";
 import vmsimg from "../Assests/vmsimg.png";
 import timerimg from "../Assests/timerimg.png";
 import gymimg from "../Assests/gymimg.png";
-import postifyimg from "../Assests/postifyimg.png";
+//import postifyimg from "../Assests/postifyimg.png";
 
 const projects = [
   {
