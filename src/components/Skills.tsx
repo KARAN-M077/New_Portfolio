@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import {
-  Code2, Database, Globe, Palette, Server, Settings,
+  Code2, Database, Globe, Palette, Server, Settings, 
   Terminal, Layout, Cpu, Cloud, GitBranch, Monitor
 } from 'lucide-react';
 

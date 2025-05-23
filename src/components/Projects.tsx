@@ -11,6 +11,7 @@ import todoimg from "../Assests/todoimg.png";
 import vmsimg from "../Assests/vmsimg.png";
 import timerimg from "../Assests/timerimg.png";
 import gymimg from "../Assests/gymimg.png";
+import Phnapk from "../Assests/pcapk.png";
 //import postifyimg from "../Assests/postifyimg.png";
 
 const projects = [
@@ -53,6 +54,14 @@ const projects = [
     image: gymimg,
     technologies: "React & TailWind CSS",
     githubLink: "https://github.com/KARAN-M077/Gym_site",
+  },
+  {
+    title: "Medical Care APP",
+    description:
+      "I developed a modern, responsive, and accessible medical care application using React Native, designed to streamline the process of booking doctor appointments and managing personal health records. The app prioritizes user experience, ensuring seamless navigation and interaction across various devices",
+    image: Phnapk,
+    technologies: "ReactNative",
+    githubLink: "https://github.com/KARAN-M077/Savemom_Task",
   },
   {
     title: "Freelance Project",
