@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { TypeAnimation } from "react-type-animation";
 import { Github, Linkedin, Instagram, Mail } from "lucide-react";
 import { Download } from "lucide-react";
-import Resume from '../Assests/KARANM-21CSR077.pdf'
+import Resume from '../Assests/KARAN-M.pdf'
 
 
 export const Hero = () => {
